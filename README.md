@@ -1,4 +1,3 @@
-# MyEthernautSolutions
-My personal walkthrough through the Ethernaut levels http://ethernaut.openzeppelin.com.
+# BlockchainSecurityLearningMaterial
 
-Some/most of the solutions could be done in a more elegant manner, but that is not where I'm putting my focus for now :D 
+My documented, personal learning journey to become a Blockchain Security-Chad.

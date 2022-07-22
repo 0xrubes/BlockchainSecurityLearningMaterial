@@ -1,0 +1,31 @@
+//Open questions and interesting references I want to further research from the "Fundamentals of Smart Contract Security" book
+//Link: https://www.amazon.com/Fundamentals-Smart-Contract-Security-Richard/dp/194944936X/
+
+    why is collision detection effort n^root(n) and (2nd) preimage 2^n?
+
+    K framework and f* formal specification
+    53
+    55
+    70
+    76
+    20
+    73
+    70
+
+✔️   3
+    69
+    90
+    98
+    99
+    101
+    103
+
+    (109
+    110)
+
+    111
+    112
+    113
+    104
+    105
+    13
