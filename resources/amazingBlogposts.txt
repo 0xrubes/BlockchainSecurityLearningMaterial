@@ -4,3 +4,6 @@ https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-c
 Quick type-casting-overview:
 https://www.tutorialspoint.com/solidity/solidity_conversions.htm
 ->Type casting between ints preserves lower order bits, while type casting between bytes preserves higher order bits
+
+
+https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-function-selector-6a9b6886ea49/
