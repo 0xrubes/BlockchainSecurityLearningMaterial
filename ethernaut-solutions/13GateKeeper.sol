@@ -24,9 +24,10 @@ contract GatekeeperOneAttack {
     }
 
     function pwn(uint256 startIndex, uint256 endIndex) public {
-        // gas offset usually comes in around 210 (i.e. when i = 210 in my code), but give a buffer of your choosing on each side
-        // (i.e. 150 - 270 would be a buffer  of 60 on each side)
-        // (I adjusted it to be parameter-based)
+        // The author of the codebase found out that the gas offset usually comes in around 210 (i.e. when i = 210 in my code), but give a buffer of your choosing on each side
+        // (i.e. startIndex=150  and endIndex=270 would be a buffer of 60 on each side)
+        // I adjusted the buffer to be parameter-based
+        // If we would not know that the result is around 210, we would have to iterate over up to 8191 (0-8190) values of i.
 
         for (uint256 i = startIndex; i < endIndex; i++) {
             (bool result, bytes memory data) = address(
