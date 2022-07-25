@@ -7,3 +7,7 @@ https://www.tutorialspoint.com/solidity/solidity_conversions.htm
 
 
 https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-function-selector-6a9b6886ea49/
+
+
+Review of Cross-Chain Bridge Hacks:
+https://www.youtube.com/watch?v=BafvOY3PXSU&list=WL&index=1&t=225s
