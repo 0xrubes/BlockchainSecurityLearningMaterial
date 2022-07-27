@@ -1,0 +1,4 @@
+//List of code audits I want to do and look at the audit report after to see what I can find.
+Canto: (Only 2 contracts and selected functions of them to be audited with high and medium vulnerabilities)
+https://code4rena.com/reports/2022-07-canto
+https://github.com/Plex-Engineer/lending-market-v2/tree/ea5840de72eab58bec837bb51986ac73712fcfde/contracts/Stableswap

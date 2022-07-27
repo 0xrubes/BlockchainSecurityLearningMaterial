@@ -11,3 +11,6 @@ https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-iii-the-fu
 
 Review of Cross-Chain Bridge Hacks:
 https://www.youtube.com/watch?v=BafvOY3PXSU&list=WL&index=1&t=225s
+
+Little Quizz:
+https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz
