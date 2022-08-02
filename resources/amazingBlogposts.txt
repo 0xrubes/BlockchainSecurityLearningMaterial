@@ -18,3 +18,6 @@ https://ventral.digital/posts/2021/10/24/secureum-bootcamp-solidity-101-quiz
 
 Solidity Docs on Security:
 https://docs.soliditylang.org/en/develop/security-considerations.html#
+
+Common ERC 20 bug:
+https://medium.com/coinmonks/missing-return-value-bug-at-least-130-tokens-affected-d67bf08521ca
