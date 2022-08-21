@@ -2,4 +2,6 @@ https://www.damnvulnerabledefi.xyz
 
 Secureum
 
+https://github.com/fvictorio/evm-puzzles
+
 https://cmichel.io/how-to-become-a-smart-contract-auditor/
